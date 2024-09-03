@@ -9,7 +9,7 @@ By utilizing facial landmark detection and eye aspect ratio (EAR) calculations, 
 * Medical Research: Studying eye movement patterns and disorders.
 
 ### Media Pipe Face Mesh
-MediaPipe Face Mesh Integration
+
 This project utilizes MediaPipe Face Mesh, a powerful machine learning solution for high-accuracy face landmark detection. 
 MediaPipe provides a pre-trained model that can detect and track hundreds of facial landmarks in real-time. To know more identified points visit this github [Repo.](https://github.com/HotaruK/mediapipe_demo/blob/main/keypoints/face_mesh_no.jpg)
 
