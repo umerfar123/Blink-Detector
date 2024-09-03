@@ -38,3 +38,28 @@ You can customize the application's behavior by adjusting the following paramete
 
 ## Usage
 
+1. Clone this repository using :
+
+   ```
+   git clone 
+   ```
+2. Install mediapipe and opencv libraries :
+
+   ```python
+    pip install opencv-python
+   ```
+    ```python
+    pip install mediapipe
+   ```
+3. Run the main file
+   
+   ```python
+    python main.py
+    ```
+___
+> [!NOTE]
+> To Exit the Window press 'x'
+    
+
+# Demo Videos
+
