@@ -41,7 +41,7 @@ You can customize the application's behavior by adjusting the following paramete
 1. Clone this repository using :
 
    ```
-   git clone 
+   git clone https://github.com/umerfar123/Blink-Detector.git
    ```
 2. Install mediapipe and opencv libraries :
 
@@ -62,4 +62,19 @@ ___
     
 
 # Demo Videos
+
+1. Face Mesh
+
+https://github.com/user-attachments/assets/f269e9b1-705a-424f-a340-680caf020f96
+
+2. Blink Detector
+
+https://github.com/user-attachments/assets/a0e228e5-f2d3-4cb8-90c3-b99a1a70429f
+
+
+
+
+
+
+   
 
