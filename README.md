@@ -1,9 +1,6 @@
 # Blink Detector 👀
 
-A Python-based software application that employs computer vision algorithms to accurately identify and quantify eye blinks from real-time or recorded video footage. 
-The application can be utilized for various purposes, such as fatigue detection, driver alertness monitoring, or human-computer interaction.
-
-## Introduction
+A Python-based project that employs computer vision algorithms to accurately identify and quantify eye blinks from real-time or recorded video footage. 
 This Python application leverages OpenCV and MediaPipe to accurately detect and analyze eye blinks in real-time or from recorded video footage. 
 By utilizing facial landmark detection and eye aspect ratio (EAR) calculations, the application provides a reliable and efficient solution for various applications, including:
 
