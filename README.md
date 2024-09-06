@@ -60,13 +60,14 @@ ___
 
 # Demo Videos
 
-1. Face Mesh
+1. ## Face Mesh
 
-https://github.com/user-attachments/assets/f269e9b1-705a-424f-a340-680caf020f96
+https://github.com/user-attachments/assets/886684eb-e652-4e84-8a6f-679d37452c8f
 
-2. Blink Detector
+2. ## Blink Detector
 
-https://github.com/user-attachments/assets/a0e228e5-f2d3-4cb8-90c3-b99a1a70429f
+https://github.com/user-attachments/assets/5dcf5a4a-ec98-4e2c-a5ad-4bcbbdf400e0
+
 
 
 
